@@ -1,143 +1,143 @@
 rank,country,avg_price,url
-1,India,"0,09",https://www.worldometers.info//img/flags/small/tn_in-flag.gif
-2,Israel,"0,11",https://www.worldometers.info//img/flags/small/tn_is-flag.gif
-3,Kyrgyzstan,"0,21",https://www.worldometers.info//img/flags/small/tn_kg-flag.gif
-4,Italy,"0,43",https://www.worldometers.info//img/flags/small/tn_it-flag.gif
-5,Ukraine,"0,46",https://www.worldometers.info//img/flags/small/tn_up-flag.gif
-6,Kazakhstan,"0,46",https://www.worldometers.info//img/flags/small/tn_kz-flag.gif
-7,Somalia,"0,5",https://www.worldometers.info//img/flags/small/tn_so-flag.gif
-8,Sri Lanka,"0,51",https://www.worldometers.info//img/flags/small/tn_ce-flag.gif
-10,Vietnam,"0,57",https://www.worldometers.info//img/flags/small/tn_vm-flag.gif
-11,China,"0,61",https://www.worldometers.info//img/flags/small/tn_ch-flag.gif
-12,Sudan,"0,63",https://www.worldometers.info//img/flags/small/tn_su-flag.gif
-13,Indonesia,"0,64",https://www.worldometers.info//img/flags/small/tn_id-flag.gif
-14,Algeria,"0,65",https://www.worldometers.info//img/flags/small/tn_ag-flag.gif
-15,Australia,"0,68",https://www.worldometers.info//img/flags/small/tn_as-flag.gif
-16,Pakistan,"0,69",https://www.worldometers.info//img/flags/small/tn_pk-flag.gif
-17,Poland,"0,7",https://www.worldometers.info//img/flags/small/tn_pl-flag.gif
-18,Bangladesh,"0,7",https://www.worldometers.info//img/flags/small/tn_bg-flag.gif
-19,Chile,"0,71",https://www.worldometers.info//img/flags/small/tn_ci-flag.gif
-20,Turkey,"0,72",https://www.worldometers.info//img/flags/small/tn_tu-flag.gif
-21,Tanzania,"0,73",https://www.worldometers.info//img/flags/small/tn_tz-flag.gif
-22,Dominican Republic,"0,74",https://www.worldometers.info//img/flags/small/tn_dr-flag.gif
-23,Mongolia,"0,74",https://www.worldometers.info//img/flags/small/tn_mg-flag.gif
-24,Iran,"0,75",https://www.worldometers.info//img/flags/small/tn_ir-flag.gif
-25,Kuwait,"0,77",https://www.worldometers.info//img/flags/small/tn_ku-flag.gif
-26,Myanmar,"0,78",https://www.worldometers.info//img/flags/small/tn_bm-flag.gif
-27,Denmark,"0,8",https://www.worldometers.info//img/flags/small/tn_da-flag.gif
-28,France,"0,81",https://www.worldometers.info//img/flags/small/tn_fr-flag.gif
-29,Nepal,"0,86",https://www.worldometers.info//img/flags/small/tn_np-flag.gif
-30,Belarus,"0,89",https://www.worldometers.info//img/flags/small/tn_bo-flag.gif
-31,Georgia,"0,93",https://www.worldometers.info//img/flags/small/tn_gg-flag.gif
-32,Ghana,"0,94",https://www.worldometers.info//img/flags/small/tn_gh-flag.gif
-33,Monaco,"0,98",https://www.worldometers.info//img/flags/small/tn_mn-flag.gif
-35,Morocco,"0,99",https://www.worldometers.info//img/flags/small/tn_mo-flag.gif
-36,Brazil,"1,01",https://www.worldometers.info//img/flags/small/tn_br-flag.gif
-37,Romania,"1,03",https://www.worldometers.info//img/flags/small/tn_ro-flag.gif
-38,Jordan,"1,03",https://www.worldometers.info//img/flags/small/tn_jo-flag.gif
-39,Kenya,"1,05",https://www.worldometers.info//img/flags/small/tn_ke-flag.gif
-40,Armenia,"1,05",https://www.worldometers.info//img/flags/small/tn_am-flag.gif
-41,Austria,"1,08",https://www.worldometers.info//img/flags/small/tn_au-flag.gif
-42,Egypt,"1,09",https://www.worldometers.info//img/flags/small/tn_eg-flag.gif
-43,Moldova,"1,12",https://www.worldometers.info//img/flags/small/tn_md-flag.gif
-44,Malaysia,"1,12",https://www.worldometers.info//img/flags/small/tn_my-flag.gif
-45,Thailand,"1,23",https://www.worldometers.info//img/flags/small/tn_th-flag.gif
-46,Estonia,"1,27",https://www.worldometers.info//img/flags/small/tn_en-flag.gif
-47,Uzbekistan,"1,34",https://www.worldometers.info//img/flags/small/tn_uz-flag.gif
-48,Ireland,"1,36",https://www.worldometers.info//img/flags/small/tn_ei-flag.gif
-49,Zambia,"1,36",https://www.worldometers.info//img/flags/small/tn_za-flag.gif
-50,Tunisia,"1,37",https://www.worldometers.info//img/flags/small/tn_ts-flag.gif
-51,Nigeria,"1,39",https://www.worldometers.info//img/flags/small/tn_ni-flag.gif
-53,Philippines,"1,42",https://www.worldometers.info//img/flags/small/tn_rp-flag.gif
-54,El Salvador,"1,45",https://www.worldometers.info//img/flags/small/tn_es-flag.gif
-55,Argentina,"1,45",https://www.worldometers.info//img/flags/small/tn_ar-flag.gif
-56,Rwanda,"1,48",https://www.worldometers.info//img/flags/small/tn_rw-flag.gif
-57,Slovenia,"1,48",https://www.worldometers.info//img/flags/small/tn_si-flag.gif
-58,Cambodia,"1,5",https://www.worldometers.info//img/flags/small/tn_cb-flag.gif
-59,Afghanistan,"1,55",https://www.worldometers.info//img/flags/small/tn_af-flag.gif
-60,Uruguay,"1,58",https://www.worldometers.info//img/flags/small/tn_uy-flag.gif
-61,Serbia,"1,6",https://www.worldometers.info//img/flags/small/tn_ri-flag.gif
-62,Uganda,"1,62",https://www.worldometers.info//img/flags/small/tn_ug-flag.gif
-63,Nicaragua,"1,71",https://www.worldometers.info//img/flags/small/tn_nu-flag.gif
-65,Spain,"1,81",https://www.worldometers.info//img/flags/small/tn_sp-flag.gif
-66,Lithuania,"1,85",https://www.worldometers.info//img/flags/small/tn_lh-flag.gif
-67,Azerbaijan,"1,86",https://www.worldometers.info//img/flags/small/tn_aj-flag.gif
-68,Congo,"1,94",https://www.worldometers.info//img/flags/small/tn_cg-flag.gif
-69,Sweden,"2,07",https://www.worldometers.info//img/flags/small/tn_sw-flag.gif
-70,Guinea,"2,08",https://www.worldometers.info//img/flags/small/tn_gv-flag.gif
-71,Timor-Leste,"2,08",https://www.worldometers.info//img/flags/small/tn_tt-flag.gif
-72,Saudi Arabia,"2,12",https://www.worldometers.info//img/flags/small/tn_sa-flag.gif
-73,Burundi,"2,12",https://www.worldometers.info//img/flags/small/tn_by-flag.gif
-74,Peru,"2,13",https://www.worldometers.info//img/flags/small/tn_pe-flag.gif
-75,Lesotho,"2,13",https://www.worldometers.info//img/flags/small/tn_lt-flag.gif
-76,Finland,"2,14",https://www.worldometers.info//img/flags/small/tn_fi-flag.gif
-77,Guatemala,"2,17",https://www.worldometers.info//img/flags/small/tn_gt-flag.gif
-78,Bulgaria,"2,22",https://www.worldometers.info//img/flags/small/tn_bu-flag.gif
-79,Bahrain,"2,27",https://www.worldometers.info//img/flags/small/tn_ba-flag.gif
-80,Paraguay,"2,3",https://www.worldometers.info//img/flags/small/tn_pa-flag.gif
-81,Ethiopia,"2,44",https://www.worldometers.info//img/flags/small/tn_et-flag.gif
-82,Singapore,"2,47",https://www.worldometers.info//img/flags/small/tn_sn-flag.gif
-83,Burkina Faso,"2,47",https://www.worldometers.info//img/flags/small/tn_uv-flag.gif
-84,Croatia,"2,48",https://www.worldometers.info//img/flags/small/tn_hr-flag.gif
-85,Mauritius,"2,48",https://www.worldometers.info//img/flags/small/tn_mp-flag.gif
-87,Haiti,"2,74",https://www.worldometers.info//img/flags/small/tn_ha-flag.gif
-88,Costa Rica,"2,74",https://www.worldometers.info//img/flags/small/tn_cs-flag.gif
-89,Cameroon,"2,75",https://www.worldometers.info//img/flags/small/tn_cm-flag.gif
-90,Albania,"2,83",https://www.worldometers.info//img/flags/small/tn_al-flag.gif
-91,Netherlands,"2,98",https://www.worldometers.info//img/flags/small/tn_nl-flag.gif
-92,Bosnia and Herzegovina,"3,04",https://www.worldometers.info//img/flags/small/tn_bk-flag.gif
-93,Honduras,"3,12",https://www.worldometers.info//img/flags/small/tn_ho-flag.gif
-94,Côte d'Ivoire,"3,2",https://www.worldometers.info//img/flags/small/tn_iv-flag.gif
-95,Ecuador,"3,24",https://www.worldometers.info//img/flags/small/tn_ec-flag.gif
-96,Liberia,"3,25",https://www.worldometers.info//img/flags/small/tn_li-flag.gif
-98,Niger,"3,3",https://www.worldometers.info//img/flags/small/tn_ng-flag.gif
-99,Senegal,"3,3",https://www.worldometers.info//img/flags/small/tn_sg-flag.gif
-100,Mozambique,"3,33",https://www.worldometers.info//img/flags/small/tn_mz-flag.gif
-101,Colombia,"3,46",https://www.worldometers.info//img/flags/small/tn_co-flag.gif
-102,Sierra Leone,"3,69",https://www.worldometers.info//img/flags/small/tn_sl-flag.gif
-104,Latvia,"3,79",https://www.worldometers.info//img/flags/small/tn_lg-flag.gif
-105,Lebanon,"3,82",https://www.worldometers.info//img/flags/small/tn_le-flag.gif
-106,Slovakia,"3,84",https://www.worldometers.info//img/flags/small/tn_lo-flag.gif
-107,Jamaica,"3,88",https://www.worldometers.info//img/flags/small/tn_jm-flag.gif
-108,Japan,"3,91",https://www.worldometers.info//img/flags/small/tn_ja-flag.gif
-109,Germany,"4,06",https://www.worldometers.info//img/flags/small/tn_gm-flag.gif
-110,Qatar,"4,12",https://www.worldometers.info//img/flags/small/tn_qa-flag.gif
-111,Guinea-Bissau,"4,12",https://www.worldometers.info//img/flags/small/tn_pu-flag.gif
-112,Mali,"4,12",https://www.worldometers.info//img/flags/small/tn_ml-flag.gif
-114,Iraq,"4,2",https://www.worldometers.info//img/flags/small/tn_iz-flag.gif
-115,South Africa,"4,3",https://www.worldometers.info//img/flags/small/tn_sf-flag.gif
-116,Togo,"4,5",https://www.worldometers.info//img/flags/small/tn_to-flag.gif
-117,Oman,"4,58",https://www.worldometers.info//img/flags/small/tn_mu-flag.gif
-118,Mauritania,"4,63",https://www.worldometers.info//img/flags/small/tn_mr-flag.gif
-119,Tajikistan,"4,65",https://www.worldometers.info//img/flags/small/tn_ti-flag.gif
-120,Libya,"4,73",https://www.worldometers.info//img/flags/small/tn_ly-flag.gif
-121,Mexico,"4,77",https://www.worldometers.info//img/flags/small/tn_mx-flag.gif
-122,Namibia,"4,78",https://www.worldometers.info//img/flags/small/tn_wa-flag.gif
-123,Belgium,"4,88",https://www.worldometers.info//img/flags/small/tn_be-flag.gif
-124,Gabon,"4,89",https://www.worldometers.info//img/flags/small/tn_gb-flag.gif
-125,Portugal,"4,97",https://www.worldometers.info//img/flags/small/tn_po-flag.gif
-126,Bolivia,"5,09",https://www.worldometers.info//img/flags/small/tn_bl-flag.gif
-127,Gambia,"5,1",https://www.worldometers.info//img/flags/small/tn_ga-flag.gif
-128,Norway,"5,28",https://www.worldometers.info//img/flags/small/tn_no-flag.gif
-129,Angola,"5,29",https://www.worldometers.info//img/flags/small/tn_ao-flag.gif
-130,Hungary,"5,32",https://www.worldometers.info//img/flags/small/tn_hu-flag.gif
-131,Papua New Guinea,"5,4",https://www.worldometers.info//img/flags/small/tn_pp-flag.gif
-133,Trinidad and Tobago,"5,92",https://www.worldometers.info//img/flags/small/tn_td-flag.gif
-134,New Zealand,"6,06",https://www.worldometers.info//img/flags/small/tn_nz-flag.gif
-135,Syria,"6,55",https://www.worldometers.info//img/flags/small/tn_sy-flag.gif
-136,Panama,"6,69",https://www.worldometers.info//img/flags/small/tn_pm-flag.gif
-140,Switzerland,"8,38",https://www.worldometers.info//img/flags/small/tn_sz-flag.gif
-141,Madagascar,"8,81",https://www.worldometers.info//img/flags/small/tn_ma-flag.gif
-143,South Korea,"10,94",https://www.worldometers.info//img/flags/small/tn_ks-flag.gif
-144,Turkmenistan,"11,44",https://www.worldometers.info//img/flags/small/tn_tx-flag.gif
-145,Greece,"12,06",https://www.worldometers.info//img/flags/small/tn_gr-flag.gif
-146,Canada,"12,55",https://www.worldometers.info//img/flags/small/tn_ca-flag.gif
-147,Equatorial Guinea,"12,78",https://www.worldometers.info//img/flags/small/tn_ek-flag.gif
-148,Eswatini,"13,31",https://www.worldometers.info//img/flags/small/tn_wz-flag.gif
-149,Cuba,"13,33",https://www.worldometers.info//img/flags/small/tn_cu-flag.gif
-150,Cyprus,"13,56",https://www.worldometers.info//img/flags/small/tn_cy-flag.gif
-151,Botswana,"13,87",https://www.worldometers.info//img/flags/small/tn_bc-flag.gif
-152,Yemen,"15,98",https://www.worldometers.info//img/flags/small/tn_ym-flag.gif
-153,Chad,"23,33",https://www.worldometers.info//img/flags/small/tn_cd-flag.gif
-154,Benin,"27,22",https://www.worldometers.info//img/flags/small/tn_bn-flag.gif
-155,Malawi,"27,41",https://www.worldometers.info//img/flags/small/tn_mi-flag.gif
+1,India,"0,09",https://www.worldometers.info/img/flags/small/tn_in-flag.gif
+2,Israel,"0,11",https://www.worldometers.info/img/flags/small/tn_is-flag.gif
+3,Kyrgyzstan,"0,21",https://www.worldometers.info/img/flags/small/tn_kg-flag.gif
+4,Italy,"0,43",https://www.worldometers.info/img/flags/small/tn_it-flag.gif
+5,Ukraine,"0,46",https://www.worldometers.info/img/flags/small/tn_up-flag.gif
+6,Kazakhstan,"0,46",https://www.worldometers.info/img/flags/small/tn_kz-flag.gif
+7,Somalia,"0,5",https://www.worldometers.info/img/flags/small/tn_so-flag.gif
+8,Sri Lanka,"0,51",https://www.worldometers.info/img/flags/small/tn_ce-flag.gif
+10,Vietnam,"0,57",https://www.worldometers.info/img/flags/small/tn_vm-flag.gif
+11,China,"0,61",https://www.worldometers.info/img/flags/small/tn_ch-flag.gif
+12,Sudan,"0,63",https://www.worldometers.info/img/flags/small/tn_su-flag.gif
+13,Indonesia,"0,64",https://www.worldometers.info/img/flags/small/tn_id-flag.gif
+14,Algeria,"0,65",https://www.worldometers.info/img/flags/small/tn_ag-flag.gif
+15,Australia,"0,68",https://www.worldometers.info/img/flags/small/tn_as-flag.gif
+16,Pakistan,"0,69",https://www.worldometers.info/img/flags/small/tn_pk-flag.gif
+17,Poland,"0,7",https://www.worldometers.info/img/flags/small/tn_pl-flag.gif
+18,Bangladesh,"0,7",https://www.worldometers.info/img/flags/small/tn_bg-flag.gif
+19,Chile,"0,71",https://www.worldometers.info/img/flags/small/tn_ci-flag.gif
+20,Turkey,"0,72",https://www.worldometers.info/img/flags/small/tn_tu-flag.gif
+21,Tanzania,"0,73",https://www.worldometers.info/img/flags/small/tn_tz-flag.gif
+22,Dominican Republic,"0,74",https://www.worldometers.info/img/flags/small/tn_dr-flag.gif
+23,Mongolia,"0,74",https://www.worldometers.info/img/flags/small/tn_mg-flag.gif
+24,Iran,"0,75",https://www.worldometers.info/img/flags/small/tn_ir-flag.gif
+25,Kuwait,"0,77",https://www.worldometers.info/img/flags/small/tn_ku-flag.gif
+26,Myanmar,"0,78",https://www.worldometers.info/img/flags/small/tn_bm-flag.gif
+27,Denmark,"0,8",https://www.worldometers.info/img/flags/small/tn_da-flag.gif
+28,France,"0,81",https://www.worldometers.info/img/flags/small/tn_fr-flag.gif
+29,Nepal,"0,86",https://www.worldometers.info/img/flags/small/tn_np-flag.gif
+30,Belarus,"0,89",https://www.worldometers.info/img/flags/small/tn_bo-flag.gif
+31,Georgia,"0,93",https://www.worldometers.info/img/flags/small/tn_gg-flag.gif
+32,Ghana,"0,94",https://www.worldometers.info/img/flags/small/tn_gh-flag.gif
+33,Monaco,"0,98",https://www.worldometers.info/img/flags/small/tn_mn-flag.gif
+35,Morocco,"0,99",https://www.worldometers.info/img/flags/small/tn_mo-flag.gif
+36,Brazil,"1,01",https://www.worldometers.info/img/flags/small/tn_br-flag.gif
+37,Romania,"1,03",https://www.worldometers.info/img/flags/small/tn_ro-flag.gif
+38,Jordan,"1,03",https://www.worldometers.info/img/flags/small/tn_jo-flag.gif
+39,Kenya,"1,05",https://www.worldometers.info/img/flags/small/tn_ke-flag.gif
+40,Armenia,"1,05",https://www.worldometers.info/img/flags/small/tn_am-flag.gif
+41,Austria,"1,08",https://www.worldometers.info/img/flags/small/tn_au-flag.gif
+42,Egypt,"1,09",https://www.worldometers.info/img/flags/small/tn_eg-flag.gif
+43,Moldova,"1,12",https://www.worldometers.info/img/flags/small/tn_md-flag.gif
+44,Malaysia,"1,12",https://www.worldometers.info/img/flags/small/tn_my-flag.gif
+45,Thailand,"1,23",https://www.worldometers.info/img/flags/small/tn_th-flag.gif
+46,Estonia,"1,27",https://www.worldometers.info/img/flags/small/tn_en-flag.gif
+47,Uzbekistan,"1,34",https://www.worldometers.info/img/flags/small/tn_uz-flag.gif
+48,Ireland,"1,36",https://www.worldometers.info/img/flags/small/tn_ei-flag.gif
+49,Zambia,"1,36",https://www.worldometers.info/img/flags/small/tn_za-flag.gif
+50,Tunisia,"1,37",https://www.worldometers.info/img/flags/small/tn_ts-flag.gif
+51,Nigeria,"1,39",https://www.worldometers.info/img/flags/small/tn_ni-flag.gif
+53,Philippines,"1,42",https://www.worldometers.info/img/flags/small/tn_rp-flag.gif
+54,El Salvador,"1,45",https://www.worldometers.info/img/flags/small/tn_es-flag.gif
+55,Argentina,"1,45",https://www.worldometers.info/img/flags/small/tn_ar-flag.gif
+56,Rwanda,"1,48",https://www.worldometers.info/img/flags/small/tn_rw-flag.gif
+57,Slovenia,"1,48",https://www.worldometers.info/img/flags/small/tn_si-flag.gif
+58,Cambodia,"1,5",https://www.worldometers.info/img/flags/small/tn_cb-flag.gif
+59,Afghanistan,"1,55",https://www.worldometers.info/img/flags/small/tn_af-flag.gif
+60,Uruguay,"1,58",https://www.worldometers.info/img/flags/small/tn_uy-flag.gif
+61,Serbia,"1,6",https://www.worldometers.info/img/flags/small/tn_ri-flag.gif
+62,Uganda,"1,62",https://www.worldometers.info/img/flags/small/tn_ug-flag.gif
+63,Nicaragua,"1,71",https://www.worldometers.info/img/flags/small/tn_nu-flag.gif
+65,Spain,"1,81",https://www.worldometers.info/img/flags/small/tn_sp-flag.gif
+66,Lithuania,"1,85",https://www.worldometers.info/img/flags/small/tn_lh-flag.gif
+67,Azerbaijan,"1,86",https://www.worldometers.info/img/flags/small/tn_aj-flag.gif
+68,Congo,"1,94",https://www.worldometers.info/img/flags/small/tn_cg-flag.gif
+69,Sweden,"2,07",https://www.worldometers.info/img/flags/small/tn_sw-flag.gif
+70,Guinea,"2,08",https://www.worldometers.info/img/flags/small/tn_gv-flag.gif
+71,Timor-Leste,"2,08",https://www.worldometers.info/img/flags/small/tn_tt-flag.gif
+72,Saudi Arabia,"2,12",https://www.worldometers.info/img/flags/small/tn_sa-flag.gif
+73,Burundi,"2,12",https://www.worldometers.info/img/flags/small/tn_by-flag.gif
+74,Peru,"2,13",https://www.worldometers.info/img/flags/small/tn_pe-flag.gif
+75,Lesotho,"2,13",https://www.worldometers.info/img/flags/small/tn_lt-flag.gif
+76,Finland,"2,14",https://www.worldometers.info/img/flags/small/tn_fi-flag.gif
+77,Guatemala,"2,17",https://www.worldometers.info/img/flags/small/tn_gt-flag.gif
+78,Bulgaria,"2,22",https://www.worldometers.info/img/flags/small/tn_bu-flag.gif
+79,Bahrain,"2,27",https://www.worldometers.info/img/flags/small/tn_ba-flag.gif
+80,Paraguay,"2,3",https://www.worldometers.info/img/flags/small/tn_pa-flag.gif
+81,Ethiopia,"2,44",https://www.worldometers.info/img/flags/small/tn_et-flag.gif
+82,Singapore,"2,47",https://www.worldometers.info/img/flags/small/tn_sn-flag.gif
+83,Burkina Faso,"2,47",https://www.worldometers.info/img/flags/small/tn_uv-flag.gif
+84,Croatia,"2,48",https://www.worldometers.info/img/flags/small/tn_hr-flag.gif
+85,Mauritius,"2,48",https://www.worldometers.info/img/flags/small/tn_mp-flag.gif
+87,Haiti,"2,74",https://www.worldometers.info/img/flags/small/tn_ha-flag.gif
+88,Costa Rica,"2,74",https://www.worldometers.info/img/flags/small/tn_cs-flag.gif
+89,Cameroon,"2,75",https://www.worldometers.info/img/flags/small/tn_cm-flag.gif
+90,Albania,"2,83",https://www.worldometers.info/img/flags/small/tn_al-flag.gif
+91,Netherlands,"2,98",https://www.worldometers.info/img/flags/small/tn_nl-flag.gif
+92,Bosnia and Herzegovina,"3,04",https://www.worldometers.info/img/flags/small/tn_bk-flag.gif
+93,Honduras,"3,12",https://www.worldometers.info/img/flags/small/tn_ho-flag.gif
+94,Côte d'Ivoire,"3,2",https://www.worldometers.info/img/flags/small/tn_iv-flag.gif
+95,Ecuador,"3,24",https://www.worldometers.info/img/flags/small/tn_ec-flag.gif
+96,Liberia,"3,25",https://www.worldometers.info/img/flags/small/tn_li-flag.gif
+98,Niger,"3,3",https://www.worldometers.info/img/flags/small/tn_ng-flag.gif
+99,Senegal,"3,3",https://www.worldometers.info/img/flags/small/tn_sg-flag.gif
+100,Mozambique,"3,33",https://www.worldometers.info/img/flags/small/tn_mz-flag.gif
+101,Colombia,"3,46",https://www.worldometers.info/img/flags/small/tn_co-flag.gif
+102,Sierra Leone,"3,69",https://www.worldometers.info/img/flags/small/tn_sl-flag.gif
+104,Latvia,"3,79",https://www.worldometers.info/img/flags/small/tn_lg-flag.gif
+105,Lebanon,"3,82",https://www.worldometers.info/img/flags/small/tn_le-flag.gif
+106,Slovakia,"3,84",https://www.worldometers.info/img/flags/small/tn_lo-flag.gif
+107,Jamaica,"3,88",https://www.worldometers.info/img/flags/small/tn_jm-flag.gif
+108,Japan,"3,91",https://www.worldometers.info/img/flags/small/tn_ja-flag.gif
+109,Germany,"4,06",https://www.worldometers.info/img/flags/small/tn_gm-flag.gif
+110,Qatar,"4,12",https://www.worldometers.info/img/flags/small/tn_qa-flag.gif
+111,Guinea-Bissau,"4,12",https://www.worldometers.info/img/flags/small/tn_pu-flag.gif
+112,Mali,"4,12",https://www.worldometers.info/img/flags/small/tn_ml-flag.gif
+114,Iraq,"4,2",https://www.worldometers.info/img/flags/small/tn_iz-flag.gif
+115,South Africa,"4,3",https://www.worldometers.info/img/flags/small/tn_sf-flag.gif
+116,Togo,"4,5",https://www.worldometers.info/img/flags/small/tn_to-flag.gif
+117,Oman,"4,58",https://www.worldometers.info/img/flags/small/tn_mu-flag.gif
+118,Mauritania,"4,63",https://www.worldometers.info/img/flags/small/tn_mr-flag.gif
+119,Tajikistan,"4,65",https://www.worldometers.info/img/flags/small/tn_ti-flag.gif
+120,Libya,"4,73",https://www.worldometers.info/img/flags/small/tn_ly-flag.gif
+121,Mexico,"4,77",https://www.worldometers.info/img/flags/small/tn_mx-flag.gif
+122,Namibia,"4,78",https://www.worldometers.info/img/flags/small/tn_wa-flag.gif
+123,Belgium,"4,88",https://www.worldometers.info/img/flags/small/tn_be-flag.gif
+124,Gabon,"4,89",https://www.worldometers.info/img/flags/small/tn_gb-flag.gif
+125,Portugal,"4,97",https://www.worldometers.info/img/flags/small/tn_po-flag.gif
+126,Bolivia,"5,09",https://www.worldometers.info/img/flags/small/tn_bl-flag.gif
+127,Gambia,"5,1",https://www.worldometers.info/img/flags/small/tn_ga-flag.gif
+128,Norway,"5,28",https://www.worldometers.info/img/flags/small/tn_no-flag.gif
+129,Angola,"5,29",https://www.worldometers.info/img/flags/small/tn_ao-flag.gif
+130,Hungary,"5,32",https://www.worldometers.info/img/flags/small/tn_hu-flag.gif
+131,Papua New Guinea,"5,4",https://www.worldometers.info/img/flags/small/tn_pp-flag.gif
+133,Trinidad and Tobago,"5,92",https://www.worldometers.info/img/flags/small/tn_td-flag.gif
+134,New Zealand,"6,06",https://www.worldometers.info/img/flags/small/tn_nz-flag.gif
+135,Syria,"6,55",https://www.worldometers.info/img/flags/small/tn_sy-flag.gif
+136,Panama,"6,69",https://www.worldometers.info/img/flags/small/tn_pm-flag.gif
+140,Switzerland,"8,38",https://www.worldometers.info/img/flags/small/tn_sz-flag.gif
+141,Madagascar,"8,81",https://www.worldometers.info/img/flags/small/tn_ma-flag.gif
+143,South Korea,"10,94",https://www.worldometers.info/img/flags/small/tn_ks-flag.gif
+144,Turkmenistan,"11,44",https://www.worldometers.info/img/flags/small/tn_tx-flag.gif
+145,Greece,"12,06",https://www.worldometers.info/img/flags/small/tn_gr-flag.gif
+146,Canada,"12,55",https://www.worldometers.info/img/flags/small/tn_ca-flag.gif
+147,Equatorial Guinea,"12,78",https://www.worldometers.info/img/flags/small/tn_ek-flag.gif
+148,Eswatini,"13,31",https://www.worldometers.info/img/flags/small/tn_wz-flag.gif
+149,Cuba,"13,33",https://www.worldometers.info/img/flags/small/tn_cu-flag.gif
+150,Cyprus,"13,56",https://www.worldometers.info/img/flags/small/tn_cy-flag.gif
+151,Botswana,"13,87",https://www.worldometers.info/img/flags/small/tn_bc-flag.gif
+152,Yemen,"15,98",https://www.worldometers.info/img/flags/small/tn_ym-flag.gif
+153,Chad,"23,33",https://www.worldometers.info/img/flags/small/tn_cd-flag.gif
+154,Benin,"27,22",https://www.worldometers.info/img/flags/small/tn_bn-flag.gif
+155,Malawi,"27,41",https://www.worldometers.info/img/flags/small/tn_mi-flag.gif
